@@ -40,5 +40,5 @@
       "last 1 safari version"
     ]
   },
-  "proxy": "https://rpdcapitalfinance.netlify.app/"
+  "proxy": "http://localhost:3001"
 }
